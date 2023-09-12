@@ -95,7 +95,7 @@ public:
         Node *prev = NULL;
         if (temp == NULL)
         {
-            cout << "The Database is empty  "<<endl;
+            cout << "The Database is empty  \n";
             return;
         }
         if (temp->next == NULL)
