@@ -5,10 +5,16 @@ Address Book
 
 ## Compile
 
+```bash
 g++ -o run Main.cpp LinkedList.cpp Address.cpp
+```
 
 ## Run
+
+```bash
 ./run
+```
+
 
 ## Use
 To store data of a person 
